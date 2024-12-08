@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://github.com/huizhou68/ff.git"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
