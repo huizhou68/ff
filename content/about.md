@@ -1,6 +1,6 @@
 ---
 title: About
-description: What is Hugo?
+description:
 ---
 
-My name is Feifei.
+My name is Feifei. I am a Ph.D candidate.
