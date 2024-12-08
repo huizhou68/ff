@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Feifei Xu"
-    description = "Personal Website"
+    description = "Feifei Xu"
     githubUsername = "#"
     accent = "red"
     showBorder = true
