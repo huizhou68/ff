@@ -1,13 +1,15 @@
-baseURL = "https://github.com/huizhou68/ff.git"
+baseURL = "/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Welcome to my personal website!"
+description = "Welcome to my site!"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Feifei Xu"
+    description = "Personal Website"
     githubUsername = "#"
     accent = "red"
     showBorder = true
