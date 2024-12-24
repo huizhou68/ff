@@ -5,7 +5,7 @@ description:
 
 I have worked as a part-time employee in two institutions: *Ounengwuyou* and *Chinese-Germany Learning Centre* in Budapest, Hungary.
 
-I have been working as a Programme Manager at Ounengwuyou since August 2022. My duties include: 
+I have been working as a Programme Manager at Ounengwuyou since August 2024. My duties include: 
 
 * Delivering personalized customer service and consultations, ensuring high client satisfaction.
 * Independently managing workflows while collaborating effectively with team members.
